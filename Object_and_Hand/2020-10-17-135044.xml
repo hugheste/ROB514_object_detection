@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Object_and_Hand</folder>
+	<filename>2020-10-17-135044.jpg</filename>
+	<path>C:\Users\vanil\Downloads\recognize_stop_sign\windows_v1.8.0\Object_and_Hand\2020-10-17-135044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>68</ymin>
+			<xmax>583</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
